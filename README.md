@@ -1,8 +1,6 @@
 
 ![Data analyst](https://github.com/user-attachments/assets/f96fc0b3-ebc1-4f37-bcea-ca5c7b0c8a45)
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk5YnQ4dnR3ZG13MzE2aW1ubWVkMjIyNWVhNndtd2NxY3ZjMzYxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2k99&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2k99" /> </p>
 
