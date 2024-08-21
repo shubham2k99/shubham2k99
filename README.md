@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 
-<img src="https://camo.githubusercontent.com/adc370d5e2f03791f46c034206c0932baac93320fb80e3c1cb90ccd81fd026b7/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036343236303f653d3231343734383336343726763d6265746126743d5044374e47776b32566833784f4139677866387555734c7341742d4276616b31486d3372756f4753787559" alt="Banner GIF" align="center" />
+![Data analyst](https://github.com/user-attachments/assets/f96fc0b3-ebc1-4f37-bcea-ca5c7b0c8a45)
 
-<h3 align="center">A passionate business analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk5YnQ4dnR3ZG13MzE2aW1ubWVkMjIyNWVhNndtd2NxY3ZjMzYxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2k99&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2k99" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhampatil90.wixsite.com/website](https://shubhampatil90.wixsite.com/website)
+- 👨‍💻 All of my projects are available at [My Website](https://shubhampatil90.wixsite.com/website)
 
 - 📫 How to reach me **shubham.patil@gwu.edu**
 
